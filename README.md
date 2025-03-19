@@ -1,1 +1,0 @@
-# vertistudio-dev-assignment
